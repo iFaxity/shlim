@@ -34,7 +34,7 @@
     "shadow dom"
   ],
   "dependencies": {
-    "@babel/core": "7.12.10",
+    "@babel/core": "7.14.6",
     "babel-plugin-kirei": "^2.0.1"
   },
   "peerDependencies": {
